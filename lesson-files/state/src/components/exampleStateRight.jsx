@@ -1,0 +1,4 @@
+const state = {
+    articles: [/*...*/],
+    comments: [/*...*/],
+}
